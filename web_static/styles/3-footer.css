@@ -6,3 +6,8 @@ footer {
     line-height: 60px;
     border-top: 1px solid #CCCCCC;
 }
+
+.footer_3_4_5_6 {
+    bottom: 0;
+    position: fixed;
+}
